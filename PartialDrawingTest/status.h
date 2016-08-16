@@ -1,10 +1,10 @@
 /*
-8x8 dot Japanese font for Arduboy
+Sample code of the Arduboy game development.
 
 Copyright (c) 2016 emutyworks
 
 Released under the MIT license
-https://github.com/emutyworks/8x8DotJPFont/blob/master/LICENSE.txt
+https://github.com/emutyworks/GameDevSample/blob/master/LICENSE.txt
 */
 #ifndef STATUS_H
 #define STATUS_H
