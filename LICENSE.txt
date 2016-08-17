@@ -23,7 +23,7 @@ SOFTWARE.
 -----------------------------------------------------------------------
 
 /*
- * License of Alglib.h and License of Alglib.cpp
+ * License of Alglib.h and Alglib.cpp
  */
 
 The MIT License (MIT)
